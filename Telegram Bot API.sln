@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegram.API.Client.Bot", "Telegram.API.Client.Bot\Telegram.API.Client.Bot.csproj", "{F38C8754-0559-419F-B709-1B3A4D716F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegram.API.Client.Bot.Tests", "Telegram.API.Client.Bot.Tests\Telegram.API.Client.Bot.Tests.csproj", "{57BED806-A38A-43F3-8EF4-FE1C31CAF4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38C8754-0559-419F-B709-1B3A4D716F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38C8754-0559-419F-B709-1B3A4D716F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38C8754-0559-419F-B709-1B3A4D716F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38C8754-0559-419F-B709-1B3A4D716F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BED806-A38A-43F3-8EF4-FE1C31CAF4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BED806-A38A-43F3-8EF4-FE1C31CAF4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BED806-A38A-43F3-8EF4-FE1C31CAF4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BED806-A38A-43F3-8EF4-FE1C31CAF4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
